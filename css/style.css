@@ -116,7 +116,7 @@ button.btn{
 .nav{
     padding: 0 2rem;
     height: 0rem;
-    min-height:12vh;                                                  
+    min-height:10vh;                                                  
     /* using above to lines to collapse navigation menu using toggle */
     overflow: hidden;
     transition: height 1s ease-in-out;
