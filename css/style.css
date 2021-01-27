@@ -638,7 +638,7 @@ main .post-content .post-title a{
 
 /*      Viewport less than or equal to 490px        */
 
-/* @media only screen and  (max-height: 490px){
+@media only screen and  (max-height: 490px){
     .nav .nav-items .nav-link a{
         font-weight: bold !important;
         font-size: 0.8rem !important;
@@ -656,8 +656,17 @@ main .post-content .post-title a{
         font-size: 0.8rem !important;
      }
 
-    
 
-} */
+     .nav .toggle-collapse .toggle-icons{
 
-/*   x   height less than or equal to 490px      x  */
+        padding: 1rem 0;
+    }
+
+     .nav .toggle-collapse .toggle-icons i{
+        font-size: 1rem !important;
+    }
+
+
+} 
+
+/*   x   height less than or equal to 490px      x 
